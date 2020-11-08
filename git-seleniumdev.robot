@@ -5,7 +5,7 @@ Library  SeleniumLibrary
 
 Opening the website
     [Documentation]    This is a sample for testing Git
-    [Tags]    TC1
+    [Tags]    TC1    Products
     open browser    https://www.selenium.dev/    chrome
     maximize browser window
     wait until page contains    Selenium automates browsers. That's it!
