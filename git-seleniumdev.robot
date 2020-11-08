@@ -11,5 +11,5 @@ Opening the website
     wait until page contains    Selenium automates browsers. That's it!
     click element   //*[@id="navbar"]/a[1]
     sleep    3s
-    log    All fine! Closing the browser.
+    log    All fine! Closing the browser. Change from Git.
     close all browsers
